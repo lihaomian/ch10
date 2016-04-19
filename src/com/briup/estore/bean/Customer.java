@@ -7,6 +7,7 @@ package com.briup.estore.bean;
  * Object  --  Relatation
  * 
  * */
+//
 public class Customer {
 	private Long id;
 	private String name;
